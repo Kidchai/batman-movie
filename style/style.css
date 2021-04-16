@@ -89,7 +89,7 @@ h1, h2, h3, p {
     display: block;
 }
 
-.navigation__link__active {
+.navigation__link_active {
     background-color: #E90000;
 }
 
@@ -115,15 +115,15 @@ h1, h2, h3, p {
     height: 24px;
 }
 
-.social__link__facebook {
+.social__link_facebook {
     background-image: url(../img/facebook.svg);
 }
 
-.social__link__twitter {
+.social__link_twitter {
     background-image: url(../img/twitter.svg);
 }
 
-.social__link__instagram {
+.social__link_instagram {
     background-image: url(../img/instagram.svg);
 }
 
